@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # No longer maintaining this, as I personally don't use it anymore. 
 
 ---
@@ -35,3 +36,6 @@ To download the theme on BetterDiscord, go on this [page][download-link], right-
 ![Screenshot2](https://github.com/SquirrelKiev/NewcordRevived/blob/main/icons/github/NewcordSettings.png)
 
 #### **Made with ![Love](https://raw.githubusercontent.com/SquirrelKiev/NewcordRevived/main/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo), Fixed up by [SquirrelKiev](https://github.com/SquirrelKiev)**
+=======
+# centulus.github.io
+>>>>>>> 27b8a2ffd8041017746095c4c99f759de3323f44
