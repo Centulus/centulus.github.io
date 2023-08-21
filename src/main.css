@@ -1433,7 +1433,8 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
     background-color: var(--background-secondary);
 }
 
-.theme-dark .container-ZMc96U {
+.theme-dark .container-ZMc96U,
+.containerHeight-2h-WZs {
     background-color: var(--background-primary) !important;
 }
 
