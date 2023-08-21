@@ -1061,22 +1061,6 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     padding-right: 20px;
     border: none;
 }
-.root-8LYsGj,
-.profileBanner-1owKI5,
-.profileBannerPremium-KD60EB,
-.bannerOverlayProfile-31VOgt {
-    width: 650px;
-}
-.root-8LYsGj .tabBar-2hXqzU {
-    justify-content: space-between;
-}
-.root-8LYsGj .tabBarItem-30Te4-:first-child:nth-last-child(2) {
-    margin-left: 100px;
-}
-.root-8LYsGj
-    .tabBarItem-30Te4-:first-child:nth-last-child(2)
-    ~ .tabBarItem-30Te4- {
-}
 .profileBanner-1owKI5 {
     height: 90px;
 }
