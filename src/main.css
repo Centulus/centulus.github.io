@@ -1084,6 +1084,10 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
     border-radius: 50%;
 }
 
+.container-ZMc96U {
+  background-color: var(--background-primary);
+}
+
 .mask-1y0tyc {
     position: absolute;
     top: 0;
