@@ -1,7 +1,7 @@
 /* ------------------------------------------------------------ 🌷 BASE ------------------------------------------------------------ */
 
 /* ---- Style ---- */
-.theme-dark {
+:root {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
     --text-normal: #dcddde;
@@ -10,18 +10,18 @@
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
     --interactive-muted: #72767d;
-    --background-primary: #292841;
-    --background-secondary: #232438;
+    --background-primary: #191f2e;
+    --background-secondary: #141922;
     --button-secondary-background: var(--background-accent);
-    --background-secondary-alt: #1d1f2f;
-    --background-tertiary: #181926;
+    --background-secondary-alt: #0e101c;
+    --background-tertiary: #080b15;
     --background-accent: #3e3f65;
-    --background-floating: #101019;
-    --background-mobile-primary: #292841;
-    --background-mobile-secondary: #232438;
-    --background-modifier-hover: rgba(62, 63, 101, 0.16);
-    --background-modifier-active: rgba(62, 63, 101, 0.24);
-    --background-modifier-selected: rgba(62, 63, 101, 0.32);
+    --background-floating: #0b0e1a;
+    --background-mobile-primary: #191f2e;
+    --background-mobile-secondary: #141922;
+    --background-modifier-hover: rgba(30, 35, 54, 0.16);
+    --background-modifier-active: rgba(30, 35, 54, 0.24);
+    --background-modifier-selected: rgba(30, 35, 54, 0.32);
     --background-modifier-accent: hsla(0, 0%, 100%, 0.06);
     --info-positive-text: #fff;
     --info-warning-text: #fff;
