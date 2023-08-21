@@ -703,9 +703,6 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
 /* ------------------------------------------------------------ 🦢 MEMBERS ------------------------------------------------------------ */
 
 /* ---- Member Popout ---- */
-.userPopout-2j1gM4 {
-    max-height: calc(100vh - 40px);
-}
 .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B{
     background-color: var(--background-secondary);
 }
