@@ -207,6 +207,10 @@ button:not(.searchBarComponent-3N7dCG):not(.colorPickerSwatch-RTUGRR):not(.bd-bu
 .theme-dark.container__11d72.themed_b152d4 {
 background-color: #191F2E;
 }
+
+div.children__32014::after {
+    opacity: 0;
+}
 .peopleListItem-u6dGxF,
 .actions-YHvpIT,
 .actions-YHvpIT .actionButton-3-B2x- {
